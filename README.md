@@ -31,5 +31,3 @@ public class GfG {
 		System.out.println(digSum(n));
 	}
 }
-
-// This code is contributed by Gitanjali.
